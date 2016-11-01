@@ -1,0 +1,22 @@
+{
+  "name": "duplex-to-writable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.2",
+    "through2": "^2.0.1"
+  },
+  "dependencies": {
+    "to2": "^1.0.0"
+  }
+}
